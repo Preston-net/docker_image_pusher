@@ -1,1 +1,2 @@
-kuboard-dependency/metrics-scraper:v1.0.8
+metrics-scraper
+ubuntu
