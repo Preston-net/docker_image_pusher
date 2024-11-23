@@ -1,2 +1,1 @@
-metrics-scraper
 ubuntu
